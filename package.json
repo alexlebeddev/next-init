@@ -79,6 +79,6 @@
     "prettier": "^1.13.5",
     "prettier-eslint-cli": "^4.7.1",
     "styled-jsx-css-loader": "^0.3.0",
-    "webpack-bundle-analyzer": "^2.13.1"
+    "webpack-bundle-analyzer": "^3.6.0"
   }
 }
